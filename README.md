@@ -1,2 +1,2 @@
 # CreateObject
-Instaniate object in runtime in c#
+Instantiate object in runtime in c#
